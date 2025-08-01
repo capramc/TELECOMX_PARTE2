@@ -9,6 +9,8 @@ A empresa quer antecipar o problema da evasão, e cabe a você construir um pipe
 Carregue o arquivo CSV que contém os dados tratados anteriormente. 
 <table>
  <tr><td align=center>Variável</td><td align=center>Possíveis Valores</td><td align=center>Significado</td></tr>
+ <tr><td>customerID</td><td align=center>Letras e Números</td><td>Identificador do cliente</td></tr>
+ 
  <tr><td>Churn</td><td align=center>0 ou 1</td><td>0 -> No | 1 -> Yes</td></tr>
  
  <tr><td>gender</td><td align=center>0 ou 1</td><td align=center>Female | Male</td></tr>

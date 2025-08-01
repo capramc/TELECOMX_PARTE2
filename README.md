@@ -8,3 +8,10 @@ A empresa quer antecipar o problema da evasão, e cabe a você construir um pipe
 ### Preparação dos Dados
 Carregue o arquivo CSV que contém os dados tratados anteriormente.
 
+<table>
+ <tr><td align=center>Variável</td><td align=center>Valor Atual</td><td align=center>Significado</td></tr>
+ <tr><td>Churn</td><td align=center>0</td><td align=center>No</td></tr>
+ <tr><td>Churn</td><td align=center>1</td><td align=center>Yes</td></tr>
+ <tr><td>gender</td><td align=center>0</td><td align=center>Female</td></tr>
+ <tr><td>gender</td><td align=center>1</td><td align=center>Male</td></tr>
+</table>

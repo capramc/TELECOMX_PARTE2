@@ -21,7 +21,7 @@ Carregue o arquivo CSV que contém os dados tratados anteriormente.
  
  <tr><td>Dependents</td><td align=center>0 ou 1</td><td>0 -> No | 1 -> Yes</td></tr>
  
- <tr><td>tenure</td><td align=center>number of months</td><td align=center>number</td></tr>
+ <tr><td>tenure</td><td align=center>número de meses</td><td align=center>número</td></tr>
 
  <tr><td>PhoneService</td><td align=center>0 ou 1</td><td>0 -> No | 1 -> Yes</td></tr>
  
